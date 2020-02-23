@@ -95,7 +95,7 @@ a {
 
 
 .logo {
-	margin: 10px 0 0 90px;			
+	margin: 10px 0 0 90px;
 }
 
 h1 {
@@ -184,3 +184,80 @@ h6 {
 h4 {
   text-align: left;
 }
+
+.box1-2 {
+	display: flex;
+	justify-content: center;
+}
+
+.box3-4 {
+	display: flex;
+	justify-content: center;
+}
+
+.box5-6 {
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+	border: 2px solid black;
+	background-color: #F3F3F3;
+	width: 38%;	
+	margin: 0 45px 20px 45px;
+}
+
+.lastPara {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.lastDiv {
+	width: 38%;
+	margin: 0 45px 20px 45px;
+}
+
+.main-para {
+	width: 90%;
+	margin: 0 auto;
+    padding: 30px;
+}
+
+.services-header-img {
+	display: block;
+	padding-top: 30px;
+	margin: 0 auto;
+	width: 85%;
+	height: 200px;
+}
+
+.txt {
+	font-size: 30px;
+}
+
+.services-info-img {
+	width: 510px;
+	height: 290px;
+}
+
+.ext {
+	width: 83%;
+}
+
+.list {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
